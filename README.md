@@ -6,6 +6,8 @@ If you have any technical problems with Git or GitHub, you're still better off
 if you [ask GitHub Support directly](https://github.com/contact), since you'll
 end up getting a much faster response back that way.
 
+This is now my feedback area.
+
 ---
 
 ### Ask a question
